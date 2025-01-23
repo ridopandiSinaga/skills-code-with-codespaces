@@ -19,5 +19,6 @@
                 "codespace.md"
             ]
         }
-    }
+    },
+    "postCreateCommand": "echo 'Done setting up the container!'"
 }
